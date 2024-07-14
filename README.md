@@ -1,2 +1,2 @@
 # Projects-
-The Projects I am currently working on
+The projects I am currently working on
